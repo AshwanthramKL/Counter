@@ -22,17 +22,20 @@ Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the background color of the website change upon click of button.
+- Increment or Decrement the value of the counter
+- See the counter color change.
 
 ### Screenshot
 
-![Rating page](./images/Website_preview.jpg)
+![Initial page](./images/Website_preview_initial.jpg)
+![Increment page](./images/Website_preview.jpg)
+![Decrement page](./images/Website_preview_2.jpg)
+
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Color-Flipper)
-- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Color-Flipper/)
+- Solution URL: [Solution URL](https://github.com/AshwanthramKL/Counter)
+- Live Site URL: [Live site URL](https://ashwanthramkl.github.io/Counter/)
 
 ## My process
 
